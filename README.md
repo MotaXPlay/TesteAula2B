@@ -4,4 +4,4 @@
 
 Endereço: XXXXXXXXXXXX - Candido Mota - SP
 
-# ...
+# ---
